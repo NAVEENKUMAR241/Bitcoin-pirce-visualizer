@@ -12,3 +12,7 @@ Rest API’s function by sending a request, the request is communicated via HTTP
 ### Here is a description of the candle sticks:
 
 ![image](https://user-images.githubusercontent.com/70682152/147720100-2afb90a2-4ff9-4d15-ad97-0bc37336ca67.png)
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
